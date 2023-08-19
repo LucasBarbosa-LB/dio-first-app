@@ -1,15 +1,19 @@
 # dioproject
 
-A new Flutter project.
+Esse é um novo projeto Flutter.
 
-## Getting Started
+## Iniciando aplicação.
 
-This project is a starting point for a Flutter application.
+Esse Projeto é um gerador de frases.
+Para iniciar a execução insira o comando no terminal `flutter run`.
 
-A few resources to get you started if this is your first Flutter project:
+## Avisos
+
+É necessário ter toda configuração do flutter para execução desse projeto.
+
+Você pode obter ajuda e orientação de instalação nos links abaixo:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
